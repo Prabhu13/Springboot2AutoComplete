@@ -1,0 +1,8 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.classpath
+.project
+.settings/
+target/
+./ui/client/node_modules
+ui/server/node_modules
+ui/server/public
